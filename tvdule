@@ -1,85 +1,353 @@
-#EXTM3U#
-#EXTINF:-1 tvg-id="" tvg-name="### (BIH) BOSNIA ###" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/BOSNIAFLAG.png" group-title="EXYU| BOSNIA",### (BIH) BOSNIA ###
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9616
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) CORONA VIRUS INFO" tvg-logo="  http://107.152.105.108:81/Logo/CANADAENGLISH/CORONAVIRUSINFO.png " group-title="EXYU| BOSNIA",(BIH) CORONA VIRUS INFO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9615
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) BHT HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BHTHD.png" group-title="EXYU| BOSNIA",(BIH) BHT HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9614
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) BHT" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BHTHD.png" group-title="EXYU| BOSNIA",(BIH) BHT
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9613
-#EXTINF:-1 tvg-id="ftv.ba" tvg-name="(BIH) FTV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/FTV.png" group-title="EXYU| BOSNIA",(BIH) FTV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9612
-#EXTINF:-1 tvg-id="hayat.ba" tvg-name="(BIH) HAYAT HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HAYATHD.png" group-title="EXYU| BOSNIA",(BIH) HAYAT HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9611
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) HAYAT BIH" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HAYATHD.png" group-title="EXYU| BOSNIA",(BIH) HAYAT BIH
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9610
-#EXTINF:-1 tvg-id="hayatplus.ba" tvg-name="(BIH) HAYAT PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HAYATPLUS.png" group-title="EXYU| BOSNIA",(BIH) HAYAT PLUS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9609
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) NOVA BH HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/NOVABHHD.png" group-title="EXYU| BOSNIA",(BIH) NOVA BH HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9608
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) NOVA BH" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/NOVABHHD.png" group-title="EXYU| BOSNIA",(BIH) NOVA BH
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9607
-#EXTINF:-1 tvg-id="facetv.ba" tvg-name="(BIH) FACE TV HD" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/FACETVhd.png" group-title="EXYU| BOSNIA",(BIH) FACE TV HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9606
-#EXTINF:-1 tvg-id="facetv.ba" tvg-name="(BIH) FACE TV" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/FACETVhd.png" group-title="EXYU| BOSNIA",(BIH) FACE TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9605
-#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-name="(BIH) AL JAZEERA BALKAN HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALJAZEERABALKANHD.png" group-title="EXYU| BOSNIA",(BIH) AL JAZEERA BALKAN HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9604
-#EXTINF:-1 tvg-id="aljazeerabalkans.ba" tvg-name="(BIH) AL JAZEERA BALKAN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALJAZEERABALKANHD.png" group-title="EXYU| BOSNIA",(BIH) AL JAZEERA BALKAN
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9603
-#EXTINF:-1 tvg-id="obn.ba" tvg-name="(BIH) OBN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/OBNBIH.png" group-title="EXYU| BOSNIA",(BIH) OBN
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9601
-#EXTINF:-1 tvg-id="n1.ba" tvg-name="(BIH) N1 BOSNA" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/N1BOSNA.png" group-title="EXYU| BOSNIA",(BIH) N1 BOSNA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9600
-#EXTINF:-1 tvg-id="BN.bn" tvg-name="(BIH) BN BIH" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BNBIH.png" group-title="EXYU| BOSNIA",(BIH) BN BIH
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9599
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) BN SAT HD" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BNSATHD.png" group-title="EXYU| BOSNIA",(BIH) BN SAT HD
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9598
-#EXTINF:-1 tvg-id="rtrsplus.ba" tvg-name="(BIH) RTRS PLUS" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTRSPLUS.png" group-title="EXYU| BOSNIA",(BIH) RTRS PLUS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9597
-#EXTINF:-1 tvg-id="rtrs.ba" tvg-name="(BIH) RTRS" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTRSPLUS.png" group-title="EXYU| BOSNIA",(BIH) RTRS
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9596
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) ALTERNATIVNA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALTERNATIVNATV.png" group-title="EXYU| BOSNIA",(BIH) ALTERNATIVNA TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9595
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) TV ZENICA" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVZENICA.png" group-title="EXYU| BOSNIA",(BIH) TV ZENICA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9594
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) TV USK" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVUSK.png" group-title="EXYU| BOSNIA",(BIH) TV USK
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9593
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) RTV CAZIN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVCAZIN.png" group-title="EXYU| BOSNIA",(BIH) RTV CAZIN
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9592
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) RTV KRAJINA" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVKRAJINA.png" group-title="EXYU| BOSNIA",(BIH) RTV KRAJINA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9591
-#EXTINF:-1 tvg-id="tvkiss.ba" tvg-name="(BIH) TK TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TKTV.png" group-title="EXYU| BOSNIA",(BIH) TK TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9590
-#EXTINF:-1 tvg-id="tv1.ba" tvg-name="(BIH) TV 1" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TV1.png" group-title="EXYU| BOSNIA",(BIH) TV 1
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9589
-#EXTINF:-1 tvg-id="tvsarajevo.ba" tvg-name="(BIH) TV SARAJEVO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVSARAJEVO.png" group-title="EXYU| BOSNIA",(BIH) TV SARAJEVO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9588
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) TV KAKANJ" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TVKAKANJ.png" group-title="EXYU| BOSNIA",(BIH) TV KAKANJ
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9587
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) TELEVIZIJA 5" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/TELEVIZIJA5.png" group-title="EXYU| BOSNIA",(BIH) TELEVIZIJA 5
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9586
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) RTV ROMA" tvg-logo="http://107.152.105.108:81/Logo/BOUSNIA/RTVROMA.png" group-title="EXYU| BOSNIA",(BIH) RTV ROMA
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/103580
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) RTV VISOKO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVVISOKO.png" group-title="EXYU| BOSNIA",(BIH) RTV VISOKO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9585
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) RTV SLON" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVSLON.png" group-title="EXYU| BOSNIA",(BIH) RTV SLON
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9584
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) RTV BUGOJNO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/RTVBUGOJNO.png" group-title="EXYU| BOSNIA",(BIH) RTV BUGOJNO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9583
-#EXTINF:-1 tvg-id="otvvalentino.ba" tvg-name="(BIH) OTV VALENTINO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/OTVVALENTINO.png" group-title="EXYU| BOSNIA",(BIH) OTV VALENTINO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9582
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) MTV IGMAN" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/MTVIGMAN.png" group-title="EXYU| BOSNIA",(BIH) MTV IGMAN
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9581
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) K 3 PRNJAVOR" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/K3PRNJAVOR.png" group-title="EXYU| BOSNIA",(BIH) K 3 PRNJAVOR
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9580
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) HIT BRCKO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/HITBRCKO.png" group-title="EXYU| BOSNIA",(BIH) HIT BRCKO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9579
-#EXTINF:-1 tvg-id="posavinatv.ba" tvg-name="(BIH) POSAVINA TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/POSAVINATV.png" group-title="EXYU| BOSNIA",(BIH) POSAVINA TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9578
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) B1 GRADACAC" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/B1GRADACAC.png" group-title="EXYU| BOSNIA",(BIH) B1 GRADACAC
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9577
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) ALFA TV SARAJEVO" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/ALFATVSARAJEVO.png" group-title="EXYU| BOSNIA",(BIH) ALFA TV SARAJEVO
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9576
-#EXTINF:-1 tvg-id="" tvg-name="(BIH) BIR TV" tvg-logo="HTTP://107.152.105.108:81/Logo/BOUSNIA/LOGO/BIRTV.png" group-title="EXYU| BOSNIA",(BIH) BIR TV
-http://line.crystalott.net:80/SSW5ZRYIGO/PGESZJXZVA/9575
+#EXTM3U
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: HBO 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34454.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: HBO 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34455.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: DIVA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34456.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Fox
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34457.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Fox Life
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34458.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: CineStar Premiere 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34459.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Cinemax
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34460.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Cinemax 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34461.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Cinestar TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34462.ts
+#EXTINF:-1 group-title="Ex_Yu",==== MUZICKI-GLAZBENI KANALI // EX-YU ====
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34463.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: CMC
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34465.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: DM SAT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34466.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: GRAND TV Narodna
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34467.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Grand TV 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34468.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: KCN 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34469.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: KCN 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34470.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: KCN 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34471.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Jugoton
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34473.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Izvorna TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34474.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: OTV Valentino
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34475.ts
+#EXTINF:-1 group-title="Ex_Yu",==== DJECIJI KANALI // EX-YU ====
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34476.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: NICKELODEON
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34477.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: NICK JUNIOR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34478.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: HAYATOVCI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34479.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: BABY TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34480.ts
+#EXTINF:-1 group-title="Ex_Yu",EX-YU Pikaboo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34481.ts
+#EXTINF:-1 group-title="Ex_Yu",==== Dokumentarni // EX-YU ====
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34482.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Discovery
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34483.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Nat Geo Wild
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34484.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: 24 Kitchen
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34485.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Lov i ribolov
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34486.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: History h2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34487.ts
+#EXTINF:-1 group-title="Ex_Yu",==== SPORTKI KANALI // EX-YU ====
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34488.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 1 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34489.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 2 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34490.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 5 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34492.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 1 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34493.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 2 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34494.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 3 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34495.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 4 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34496.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: ARENA SPORT 5 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34497.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 1 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34498.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 2 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34499.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 3 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34500.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 4 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34501.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 5 HR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34502.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 1 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34503.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 2 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34504.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 3 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34505.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 4 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34506.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: SPORT KLUB 5 SRB
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34507.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Planet Sport 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34508.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Planet Sport 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34509.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Planet Sport 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34510.ts
+#EXTINF:-1 group-title="Ex_Yu",EX-YU Planet Sport 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/244189.ts
+#EXTINF:-1 group-title="Ex_Yu",EX-YU Planet Sport 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34511.ts
+#EXTINF:-1 group-title="Ex_Yu",EX-YU Moja TV Premijer Liga
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34512.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink Movies
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51565.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink SciFi & Fantasy
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51566.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink World Cinema
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51567.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink BiH
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51568.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink Style
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51569.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink Plus
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51570.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink Fashion
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51571.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Pink HaHa
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51572.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:  RTS 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51573.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTRS Plus
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51574.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Prva TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51575.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Prva Kick
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51576.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Prva Max
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51577.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Nova M
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51578.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: PickBox TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51579.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: SOS Kanal
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51580.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TLC
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51581.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Studio B
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51582.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: SciFi
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51583.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Duga TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51584.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: E!  Enteriament
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51585.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Prva Files
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51586.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTS Kolo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51587.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: AMC
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51588.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RT Vojvodina 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51589.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Zadruga 1 Live
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51590.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV Parovi 24/7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51591.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Parovi Live 24/7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51592.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Sitel- Reserve
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51593.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Telma
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51594.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: 24 Vesti
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51595.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Shutel
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51596.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Nasa TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51597.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV Sonce
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51598.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Dobra  Makedonska
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51599.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Kanal 21
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51600.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV Kumanovo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51601.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Makedonska TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51602.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: ALSAT M
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51603.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: EDO
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51604.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: ERA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51605.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: MTM Skopska
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51606.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Hugo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51607.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Hugo 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51608.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: USK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51609.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV Sarajevo
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51610.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV Palma Plus Jagodina
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51611.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: O Kanal
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51612.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTV Zenica
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51613.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Posavina TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51614.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Novi Pazar
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51615.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Moj Kanal
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51616.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Glas Drine
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51617.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Federalna TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51618.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: HBo Go
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51619.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: BN Televizija
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51620.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Alternativna TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51621.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTCG Sat
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51622.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTCG 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51623.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTCG 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51624.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: TV Vijesti
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51625.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: HRT international
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51626.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: NOVA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51627.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: FOX Crime
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51628.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: FOX Movies
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51629.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Fox Business
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51630.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Trend TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51631.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Slavonska Televizija
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51632.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Kino TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51633.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Cinestar Premiere 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51634.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Cinestar Action
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51635.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Cinestar Fantasy
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51636.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:  M1 Film
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51637.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: M1 Gold
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51638.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: AXN Spin
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51639.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV 1000
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51640.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: AXN
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51641.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: AXN Spin
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51642.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Klasik TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51643.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Filmbox Extra
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51644.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Filmbox Plus
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51645.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Cineplex
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51646.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51647.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51648.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51649.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51650.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51651.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51652.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51653.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Max Select 8
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51654.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: National Geographic
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51655.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: ID Xtra
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51656.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Crime & Investigation
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51657.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: CBS Reality
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51658.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: DocuBox
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51659.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Discovery Science
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51660.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Animal Planet
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51661.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: H2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51662.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Viasat Explore
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51663.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Viasat History
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51664.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Viasat Nature
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51665.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: BBC Earth
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51666.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Da Vinci Learning
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51667.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: Travel Channel
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51668.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: Play TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51670.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: Kafanska TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51671.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: VIP Ex_Yu: Pink Koncert
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51672.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: VIP Ex_Yu: IDJ TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51673.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: VIP Ex_Yu: TOP Sound
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51674.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: VIP Ex_Yu: KCN 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51675.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: VIP Ex_Yu: Sevdah TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51676.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: Hayat Folk
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51677.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: VIP Ex_Yu: Sandzak TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51679.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: TV Sehara
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51680.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu:: RO: Taraf
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51681.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: YU Planet
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51682.ts
+#EXTINF:-1 group-title="Ex_Yu",VIP Ex_Yu: RTV Herceg Bosne
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/51683.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Pink Hits 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34397.ts
+#EXTINF:-1 group-title="Ex_Yu",Ex_Yu: Pink Hits 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/34398.ts
